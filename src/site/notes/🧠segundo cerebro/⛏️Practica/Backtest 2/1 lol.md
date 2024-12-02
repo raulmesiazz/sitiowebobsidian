@@ -3,7 +3,7 @@
 ---
 
 PFecha actual: 2024-06-10  22:33 
-REFERENCIA DEL TRADE:: 
+REFERENCIA DEL TRADE:
 
 | FECHA DEL TRADE | HORA | DURACION | PIPS RECORRIDOS | FINALIZACION |
 | --------------- | ---- | -------- | --------------- | ------------ |
