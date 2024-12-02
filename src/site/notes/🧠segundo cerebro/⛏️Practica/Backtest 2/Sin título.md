@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/segundo-cerebro/practica/backtest-2/sin-titulo/","tags":["gardenEntry"]}
 ---
 
-Fecha actual: 2024-06-10  22:33 
+PFecha actual: 2024-06-10  22:33 
 REFERENCIA DEL TRADE:: 
 
 | FECHA DEL TRADE | HORA | DURACION | PIPS RECORRIDOS | FINALIZACION |
