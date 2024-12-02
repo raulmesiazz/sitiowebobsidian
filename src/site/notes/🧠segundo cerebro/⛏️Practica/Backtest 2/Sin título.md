@@ -9,7 +9,7 @@ REFERENCIA DEL TRADE::
 | --------------- | ---- | -------- | --------------- | ------------ |
 |                 |      |          |                 |              |
 |                 |      |          |                 |              |
-
+[lol](https://www.youtube.com/watch?v=jlNIjdhnIVc)
 - **Razón de entrada:**
 H1 trazo mi rango bajista 
 - **Objetivo:**
