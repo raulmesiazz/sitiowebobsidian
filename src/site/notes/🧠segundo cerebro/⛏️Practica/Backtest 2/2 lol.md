@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/segundo-cerebro/practica/backtest-2/2-lol/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/segundo-cerebro/practica/backtest-2/2-lol/","tags":["gardenEntry"]}
 ---
 
 Fecha actual: 2024-06-10  22:33 
